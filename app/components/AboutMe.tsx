@@ -7,7 +7,7 @@ export default function AboutMe() {
       <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center">
         <div className="md:w-1/3 mb-8 md:mb-0">
           <Image
-            src="/pfp.jpg?height=300&width=300"
+            src="./pfp.jpg?height=300&width=300"
             alt="Profile Picture"
             width={300}
             height={300}
