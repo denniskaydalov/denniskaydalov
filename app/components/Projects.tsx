@@ -4,7 +4,7 @@ export default function Projects() {
   const projects = [
     { id: 1, title: 'Trading Zoo', description: 'A simulated multi-agent stock market, pairing AI agents against each other to trade securities and make a profit.', image: './trading.png?height=200&width=300' },
     { id: 2, title: 'Dev Flow', description: 'An automated Kanban interface, streamlining CI/CD by automatically moving tickets from GitHub activity.', image: './dev.png?height=200&width=300' },
-    { id: 3, title: 'Home Server', description: 'SuperMicro and RPI home servers, managing backups, automations, etc.', image: './server.jpg?height=200&width=300' },
+    { id: 3, title: 'Home Server', description: 'SuperMicro and RPI home servers, managing backups, automations, etc.', image: './server.png?height=200&width=300' },
   ]
 
   return (
