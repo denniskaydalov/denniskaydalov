@@ -1,7 +1,7 @@
 export default function Experience() {
   const experiences = [
     { id: 1, role: 'Shopify', company: 'Software Engineering Intern', period: 'Jan 2025 - Present', description: 'Backend development on the In Store Orders team with Ruby and Ruby on Rails.' },
-    { id: 2, role: 'Infinite Investment Systems', company: 'Junior Developer Intern', period: 'Apr 2024 - Dec 2024', description: 'Backend devlepment & DevOps with Python and PostgreSQL.' },
+    { id: 2, role: 'Infinite Investment Systems', company: 'Junior Developer Intern', period: 'Apr 2024 - Dec 2024', description: 'Backend development & DevOps with Python and PostgreSQL.' },
   ]
 
   return (
