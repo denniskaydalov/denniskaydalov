@@ -19,7 +19,7 @@ export default function AboutMe() {
             Hello! I'm Dennis, I study Mathematics and Computer Science at TMU and I'm currently a Software Developer at Shopify!
           </p>
           <p className="text-gray-700">
-            I love Backend Development and DevOps. I also love competitive proramming, I'm even part of TMU's ICPC team!
+            I love Backend Development and DevOps. I also love competitive programming, I'm even part of TMU's ICPC team!
           </p>
         </div>
       </div>
