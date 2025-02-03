@@ -14,8 +14,5 @@
 - Competitive programming, ICPC
 
 ## 📚 Learning
-- React.js 
-- TypeScript
 - Awesomewm
 - Emacs
-- Firebase
