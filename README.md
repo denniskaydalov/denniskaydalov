@@ -9,10 +9,9 @@
 - Side projects 
 
 ## 📅 Hobbies
-- Competitive programming at Codeforces, LeetCode, ICPC
 - Biking
 - Bouldering
-- etc...
+- Competitive programming, ICPC
 
 ## 📚 Learning
 - React.js 
